@@ -1,0 +1,7 @@
+openai
+dotenv
+langchain
+langchain-openai
+streamlit
+langchain-community
+langgraph
